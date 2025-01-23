@@ -1,0 +1,41 @@
+[0.728s] Invoking command in '/home/ubuntu/ros2_ws/src/ros2_opencv': PYTHONPATH=/home/ubuntu/ros2_ws/build/ros2_opencv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_opencv build --build-base /home/ubuntu/ros2_ws/build/ros2_opencv/build install --record /home/ubuntu/ros2_ws/build/ros2_opencv/install.log --single-version-externally-managed install_data
+[0.929s] running egg_info
+[0.930s] creating ../../build/ros2_opencv/ros2_opencv.egg-info
+[0.930s] writing ../../build/ros2_opencv/ros2_opencv.egg-info/PKG-INFO
+[0.930s] writing dependency_links to ../../build/ros2_opencv/ros2_opencv.egg-info/dependency_links.txt
+[0.930s] writing entry points to ../../build/ros2_opencv/ros2_opencv.egg-info/entry_points.txt
+[0.930s] writing requirements to ../../build/ros2_opencv/ros2_opencv.egg-info/requires.txt
+[0.930s] writing top-level names to ../../build/ros2_opencv/ros2_opencv.egg-info/top_level.txt
+[0.930s] writing manifest file '../../build/ros2_opencv/ros2_opencv.egg-info/SOURCES.txt'
+[0.931s] reading manifest file '../../build/ros2_opencv/ros2_opencv.egg-info/SOURCES.txt'
+[0.932s] writing manifest file '../../build/ros2_opencv/ros2_opencv.egg-info/SOURCES.txt'
+[0.932s] running build
+[0.932s] running build_py
+[0.932s] creating /home/ubuntu/ros2_ws/build/ros2_opencv/build
+[0.932s] creating /home/ubuntu/ros2_ws/build/ros2_opencv/build/lib
+[0.932s] creating /home/ubuntu/ros2_ws/build/ros2_opencv/build/lib/ros2_opencv
+[0.932s] copying ros2_opencv/__init__.py -> /home/ubuntu/ros2_ws/build/ros2_opencv/build/lib/ros2_opencv
+[0.933s] copying ros2_opencv/subscriberImage.py -> /home/ubuntu/ros2_ws/build/ros2_opencv/build/lib/ros2_opencv
+[0.933s] copying ros2_opencv/cameraPublisher.py -> /home/ubuntu/ros2_ws/build/ros2_opencv/build/lib/ros2_opencv
+[0.933s] running install
+[0.933s] running install_lib
+[0.934s] creating /home/ubuntu/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages/ros2_opencv
+[0.934s] copying /home/ubuntu/ros2_ws/build/ros2_opencv/build/lib/ros2_opencv/__init__.py -> /home/ubuntu/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages/ros2_opencv
+[0.934s] copying /home/ubuntu/ros2_ws/build/ros2_opencv/build/lib/ros2_opencv/subscriberImage.py -> /home/ubuntu/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages/ros2_opencv
+[0.934s] copying /home/ubuntu/ros2_ws/build/ros2_opencv/build/lib/ros2_opencv/cameraPublisher.py -> /home/ubuntu/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages/ros2_opencv
+[0.934s] byte-compiling /home/ubuntu/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages/ros2_opencv/__init__.py to __init__.cpython-310.pyc
+[0.935s] byte-compiling /home/ubuntu/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages/ros2_opencv/subscriberImage.py to subscriberImage.cpython-310.pyc
+[0.935s] byte-compiling /home/ubuntu/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages/ros2_opencv/cameraPublisher.py to cameraPublisher.cpython-310.pyc
+[0.935s] running install_data
+[0.936s] creating /home/ubuntu/ros2_ws/install/ros2_opencv/share/ament_index
+[0.936s] creating /home/ubuntu/ros2_ws/install/ros2_opencv/share/ament_index/resource_index
+[0.936s] creating /home/ubuntu/ros2_ws/install/ros2_opencv/share/ament_index/resource_index/packages
+[0.936s] copying resource/ros2_opencv -> /home/ubuntu/ros2_ws/install/ros2_opencv/share/ament_index/resource_index/packages
+[0.936s] copying package.xml -> /home/ubuntu/ros2_ws/install/ros2_opencv/share/ros2_opencv
+[0.936s] running install_egg_info
+[0.937s] Copying ../../build/ros2_opencv/ros2_opencv.egg-info to /home/ubuntu/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages/ros2_opencv-0.0.0-py3.10.egg-info
+[0.938s] running install_scripts
+[0.957s] Installing publisher_node script to /home/ubuntu/ros2_ws/install/ros2_opencv/lib/ros2_opencv
+[0.957s] Installing subscriber_node script to /home/ubuntu/ros2_ws/install/ros2_opencv/lib/ros2_opencv
+[0.957s] writing list of installed files to '/home/ubuntu/ros2_ws/build/ros2_opencv/install.log'
+[0.976s] Invoked command in '/home/ubuntu/ros2_ws/src/ros2_opencv' returned '0': PYTHONPATH=/home/ubuntu/ros2_ws/build/ros2_opencv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/ros2_ws/install/ros2_opencv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_opencv build --build-base /home/ubuntu/ros2_ws/build/ros2_opencv/build install --record /home/ubuntu/ros2_ws/build/ros2_opencv/install.log --single-version-externally-managed install_data
